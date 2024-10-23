@@ -1,9 +1,9 @@
-## Hi there 👋
+## bem vindo ao meu perfil!
 
-<!--
-**biahcrack/biahcrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é bia 
 
-Here are some ideas to get you started:
+*Sou aluna da materia ** Tecnologia e Inovaçâo* da rede estadual de ensino.
+*Estou cursando um curso com base na lingua javascript, na bibioteca p5js, fornecido pela plataforma AluraStart
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
